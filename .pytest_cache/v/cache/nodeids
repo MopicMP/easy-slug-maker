@@ -1,0 +1,5 @@
+[
+  "tests/test_easy_slug_maker.py::TestMaker::test_basic",
+  "tests/test_easy_slug_maker.py::TestMaker::test_empty",
+  "tests/test_easy_slug_maker.py::TestMaker::test_type_error"
+]
